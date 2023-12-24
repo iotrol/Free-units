@@ -11,19 +11,20 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotion.  ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
 [
-  {
-   "name": "teleporter",
-   "unitType": "ranged",
-   "uniqueTo": "alien",
-   "replace": "warrior",
-   "movement":4,
-   "strangth"10
-   "cost":50,
-   "requiredTech":"agriculture"
-   "atackSound": "phasers
-  
+        {
+         "name": "teleporter",
+         "unitType": "ranged",
+         "uniqueTo": "alien",
+         "replace": "warrior",
+         "movement":4,
+         "strangth"10
+         "cost":50,
+         "requiredTech":"agriculture"
+         "atackSound": "phasers"
+	 }
+]
