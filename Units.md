@@ -16,10 +16,10 @@
 	}
 ]
 [
-        {
+  {
          "name": "teleporter",
          "unitType": "gunpowder",
-         "uniqueTo": "alien",
+         "uniqueTo": "Aliens",
          "replace": "warrior",
          "movement":4,
          "strangth"10
