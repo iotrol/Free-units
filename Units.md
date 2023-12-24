@@ -1,1 +1,29 @@
-
+[
+	{
+		"name": "Phasers",
+		"unitType": "Ranged",
+		"uniqueTo": "Aliens",
+		"replaces": "Machine Gun",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+]
+[
+  {
+   "name": "teleporter",
+   "unitType": "ranged",
+   "uniqueTo": "alien",
+   "replace": "warrior",
+   "movement":4,
+   "strangth"10
+   "cost":50,
+   "requiredTech":"agriculture"
+   "atackSound": "phasers
+  
