@@ -27,7 +27,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [16,16,66],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
