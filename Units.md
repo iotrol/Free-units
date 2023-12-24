@@ -18,7 +18,7 @@
 [
         {
          "name": "teleporter",
-         "unitType": "ranged",
+         "unitType": "gunpowder",
          "uniqueTo": "alien",
          "replace": "warrior",
          "movement":4,
