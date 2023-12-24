@@ -17,14 +17,14 @@
 ]
 [
   {
-         "name": "teleporter",
-         "unitType": "gunpowder",
-         "uniqueTo": "Aliens",
-         "replace": "warrior",
-         "movement":4,
-         "strangth"10
-         "cost":50,
-         "requiredTech":"agriculture"
-         "atackSound": "phasers"
+    "name": "teleporter",
+    "unitType": "gunpowder",
+    "uniqueTo": "Aliens",
+    "replace": "warrior",
+    "movement":4,
+    "strangth"10
+    "cost":50,
+    "requiredTech":"agriculture"
+    "atackSound": "phasers"
 	 }
 ]
